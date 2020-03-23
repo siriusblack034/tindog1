@@ -1,0 +1,140 @@
+#title{
+    background-color: #ed6663;
+}
+#title h1{
+        font-family: 'Ubuntu', sans-serif !important;
+        text-align: center;
+        line-height:3 ;
+        font-size: 3rem;
+        width: 10cm;
+        
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem !important;
+    line-height: 1.5;
+    
+}
+.navbar-brand{
+    position: relative;
+    left: 50px;
+    padding-left: 50px;
+    font-size: 2.5rem !important;
+}
+button {
+    font-family : 'Ubuntu', sans-serif;
+    font-size: 1rem;
+       
+    border-radius:10px !important;
+}
+.container-fluid{
+    padding:3% 15%;
+}
+
+#img-iphone{
+    margin-left: 120px;
+    
+    transform: rotate(20deg);
+}
+.download-center{
+    text-align: center;
+}
+.nav-item{
+    padding: 0 20px;
+}
+#img-iphone{
+    padding-top: 40px;
+   
+}
+.download-button{
+    margin: 3% 3% 5% 0;
+}
+/* features section */
+#features{
+    padding: 7% 15%;
+}
+#features h3{
+    
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 1.5rem;
+}
+#features p{
+    
+    color: #8f8f8f;
+}
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    margin-bottom:1rem ;
+    color: #ed6663;
+}
+.icon:hover{
+    color: #e01f1c;
+    
+}
+/* testimonials section */
+#testimonials{
+    padding: 5% 15%;
+    text-align: center;
+    background-color:#ed6663 ;
+    
+}
+.testimonials-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #ed6663;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+/* Pricing */
+#pricing{
+    padding:5% 20%;
+   
+}
+.content{
+    text-align: center;
+    margin: 5%;
+}
+.content p{
+    color: #8f8f8f;
+}
+#pricing .btn{
+    width: 100%;
+}
+/* Call to Action */
+#cta{
+    background-color: #ed6663;
+    padding: 7% 15%;
+    text-align: center;
+}
+#cta h2{
+    margin-bottom: 2rem !important;
+}
+/* <!-- Footer --> */
+#footer{
+    padding: 2% 16%;
+    text-align: center;
+    
+}
+#footer h4{
+    color: #8f8f8f !important;
+}
+.footer-icon{
+    
+    margin:2% 10% 3% 10%;
+}
